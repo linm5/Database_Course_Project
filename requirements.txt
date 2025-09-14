@@ -1,0 +1,14 @@
+greenlet
+importlib-metadata
+numpy
+pandas
+psycopg2-binary
+python-dateutil
+pytz
+six
+SQLAlchemy
+typing-extensions
+zipp
+plotly
+
+link to our gitlab: https://version.aalto.fi/gitlab/phmb1/database-project-part-2
